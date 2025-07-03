@@ -179,7 +179,7 @@ class Search extends SearchDelegate {
             counterStyle: const TextStyle(color: Colors.white),
           ),
       textTheme: const TextTheme(
-        headline5: TextStyle(color: Colors.white),
+        displayMedium: TextStyle(color: Colors.white),
       ),
     );
   }

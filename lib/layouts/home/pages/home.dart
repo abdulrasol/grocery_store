@@ -80,6 +80,7 @@ class Home extends StatelessWidget {
                   );
                 }
               },
+              future: null,
             ),
             // cat 1
             sizedBox,
